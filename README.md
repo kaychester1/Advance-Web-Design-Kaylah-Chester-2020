@@ -148,39 +148,152 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </body>
 </html>
 
+.wrapper{
+	width: 1680px;
+	height: 1800px;
+	background:black;
+	
+}
+
+.row{
+	width: 1680px;
+	height:150px;
+	background: black;
+}
+
+.column1{
+	width: 800px;
+	height: 150px;
+	background: black;
+	margin-left: 450px; 
+	
+}
+
+.column2{
+	width: 1680px;
+	height: 550px;
+	background: black;
+}
+
+.column3{
+	width: 500px;
+	height: 600px;
+	background: black;
+	float: left;
+	
+}
+
+
+.ban1{
+	width:90px;
+	height: 600px;
+	background: transparent;
+	float: left;
+
+}
+
+
+.column4{
+	width:  500px;
+	height: 600px;
+	background: black;
+	float: left;
+	
+}
+
+.ban2{
+	width: 90px;
+	height: 600px;
+	background: transparent;
+	float: left;
+}
+
+.column5{
+	width:  500px;
+	height: 600px;
+	background: black;
+	float: left;
+}
+.column6{
+	width: 1680px;
+	height: 100px;
+	background: black;
+	float: left;
+
+}
+.column7{	
+	width:  500px;
+	height: 545px;
+	background:black;
+	float: left;
+}
+
+
+.column8{
+	width:  600px;
+	height: 245px;
+	background: black;
+	float: left;
+}
+.column9{
+	width:  579px;
+	height: 545px;
+	background: black;
+	float: left;
+}
+.column11{
+	float: left;
+	width: 1680px;
+	height: 400px;
+
+}
+
+
+
+
+.column12{
+	width: 1680px;
+	height: 50px;
+	background: black;
+}
+
+body{
+background:black;
+}
+.words{
+	font-family: 'Fjalla One', sans-serif;
+	letter-spacing: 3px;
+	kerning: 7px;
+	line-height: 1.8;
+	font-size: 55px;font color: white;
+	font color: white;
+}
+.words2{
+	font-family: 'Fjalla One', sans-serif;
+	letter-spacing: 3px;
+	kerning: 7px;
+	line-height: 2;
+	font-size: 40px;
+	font color: white;
+}
+.words3{
+	font-family: 'Fjalla One', sans-serif;
+	letter-spacing: 3px;
+	kerning: 7px;
+	line-height: 1.8;
+	font-size: 35px;
+	font color: white;
+
+}
+.words33{
+	font-family: 'Fjalla One', sans-serif;
+	letter-spacing: 3px;
+	kerning: 7px;
+	line-height: 1.8;
+	font-size: 30px;
+	font color: white;
+
+}
