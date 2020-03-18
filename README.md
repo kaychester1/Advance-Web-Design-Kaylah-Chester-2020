@@ -1,4 +1,12 @@
 # Advance-Web-Design-Kaylah-Chester-2020
+
+Hi Professor Chu,
+
+I have no idea if I am doing this correctly. I have tried multiple Youtube videos and I still don't understand how to use this program. This is my 3rd or fourth try and I still do not understand what I am supposed to do with it.
+
+
+
+
 <!DOCTYPE html>
 <html>
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
@@ -32,7 +40,7 @@
 		<div class="column2">
 			<center>
 				<div class="words2">
-				I am a Junior here at Millersvilles. I was born in Philadelphia. My strong suit, when it comes to design, is mostly print design. Coding is something I do struggle alot in, but it is something I want to get better since it is a important aspect of graphic design. My favorite aspect of design is mostly print work and building logo's, and motion design. Motion is my favorite because I wanted to be a traditional animator but this is the closest I get to it doing it, even though I don't know the program as a whole.
+				I am a Junior here at Millersvilles. I was born in Philadelphia, PA. My strong suit when it comes to design, is mostly print design. Coding is something I do struggle alot with, but it is something I want to get better since it is a important aspect of graphic design. My favorite aspect of design is mostly print work and building logo's, and motion design. Motion is my favorite because I wanted to be a traditional animator when I was in highschool but this is the closest I get to it doing it, even though I don't know the programs as a whole.
 				</div>
 			</center>
 		</div>
@@ -48,7 +56,7 @@
 				<div class="sentence1">
 					<div class="words33">
 						<center>
-						Because I am not that food at web design because of the code and I Struggle pretty badly with it. For example, this is my third website I have made for this one assignment. 
+						Because I am not that good at web design because of coding and I struggle with it. For example, this is my third website I have made for this one assignment. 
 						</center>
 					</div>
 
@@ -148,8 +156,43 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </body>
 </html>
+
+<link rel="stylesheet" type="text/css" href="style sheet.css">
 
 .wrapper{
 	width: 1680px;
